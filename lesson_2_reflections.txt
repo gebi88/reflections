@@ -5,3 +5,7 @@ Para comenzar a utilizar el control de versiones
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 Permite elegir que archivos respaldar
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Puedo ver los archivos cambiados y las lineas con git diff
