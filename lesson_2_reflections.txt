@@ -9,3 +9,7 @@ Permite elegir que archivos respaldar
 How can you use the staging area to make sure you have one commit per logical change?
 
 Puedo ver los archivos cambiados y las lineas con git diff
+
+How do the diagrams help you visualize the branch structure?
+
+Muestran todos los commit asociados a cada branch y si son o no alcanzables
